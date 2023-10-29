@@ -11,7 +11,7 @@ This project automatically restarts any AWS EC2 instance that shuts down and ent
 - **Terraform Installation**:
    - Before running any Terraform commands, ensure that you have Terraform installed on your machine. You can download and install Terraform from [Terraform's official website](https://www.terraform.io/downloads.html).
 
-## Getting Started
+## Usage instructions
 
 1. **Clone the repository**:
    ```bash
@@ -23,4 +23,7 @@ This project automatically restarts any AWS EC2 instance that shuts down and ent
 3. **Apply your TF file**:
    ```bash
    terraform apply
+4. **Cleaning up resources**
+   ```bash
+   terraform destroy
 
