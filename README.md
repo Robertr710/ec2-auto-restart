@@ -4,7 +4,6 @@
 
 This project automatically restarts any AWS EC2 instance that shuts down and enters the "STOPPED" state using Eventbridge and Lambda.
 
-## Prerequisites
 
 ## Prerequisites
 
